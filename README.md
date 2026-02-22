@@ -10,4 +10,5 @@ This repository is shared for educational and curiosity purposes, especially for
 
 It does not include any original game assets and is not affiliated with or endorsed by the developers of Poppy Playtime. The goal is purely technical exploration and learning.
 <img width="1083" height="797" alt="image" src="https://github.com/user-attachments/assets/a35ae5fb-5d18-414a-81da-20d6a915fb88" />
+<img width="620" height="765" alt="image" src="https://github.com/user-attachments/assets/5eb89685-7052-40ac-a2a7-aefff42f7b29" />
 
